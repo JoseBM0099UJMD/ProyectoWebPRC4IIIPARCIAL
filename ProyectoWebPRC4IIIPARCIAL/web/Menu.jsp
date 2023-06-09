@@ -36,7 +36,7 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
         <style>
             body{
-                background: #A8F7B6;
+                background: #89C6B3;
             }
             .medio{
                 margin-top: 100px;
